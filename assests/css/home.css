@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
